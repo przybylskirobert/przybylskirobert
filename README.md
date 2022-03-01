@@ -1,19 +1,12 @@
-### Hi there 👋
+### Hi there, 👋
+## My name is Robert and I’d like to welcome you to my github
 
-<!--
-**przybylskirobert/przybylskirobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here I will put all the interesting scripts related to my main area of expertise which is Identity, On-Premises, Azure, and Security
+Actually, I’m working as a Security Architect in Predica Group where I help clients with their projects, from planning, through managing, to delivery.
+My speciality is security, in the Azure cloud and on-premises.
+I also help businesses with compromised environment recovery.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me out over email robert[at]azureblog.pl
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=przybylskirobert)](https://github.com/przybylskirobert?tab=repositories)
