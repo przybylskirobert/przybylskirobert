@@ -20,6 +20,7 @@ In 2021 I was also awarded with Microsoft Most Valuable Proffessional award in E
 
 ## Repositories MAP
 - <a href="https://github.com/przybylskirobert/ADSecurity">ADSecurity</a> - here you will find usefull scripts regarding LAPS, Tiering, PAW and Authentication Policies implementation
+- <a href="https://github.com/przybylskirobert/AADSecurity">AADSecurity</a> - here you will find usefull scripts regarding Azure AD Security checks
 - <a href="https://github.com/przybylskirobert/ADhealthCheck">ADhealthCheck</a> - repo with scripts that will allow you to perform AD Health check
 - <a href="https://github.com/przybylskirobert/AzureIdentityGovernance">AzureIdentityGovernance</a> - repo with scripts that will help you with Azure AD Identity Governance (Entitlement Management, Terms of Use, PIM)
 - <a href="https://github.com/przybylskirobert/whfb">Windows Hello For Business</a> - repo with scripts that will help you with Windows Hello for Business Implementation
